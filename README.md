@@ -1,6 +1,5 @@
 # raspberryPi-TrafficLightControls
 
-RaspberryPi-TrafficLightControls
 Welcome to the RaspberryPi-TrafficLightControls project! This project was developed as part of the Computer Science 311 Networking Module at the University of the Western Cape with my team consisting of 10 members.
 
 Overview: 
