@@ -26,7 +26,7 @@ Contributions to the project are welcome! If you have ideas for improvements or 
 License: 
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes.
 
-Acknowledgements
+Acknowledgements:
 
 University of the Western Cape: Thank you to the Computer Science 311 Networking Module for inspiring and guiding this project.
 
