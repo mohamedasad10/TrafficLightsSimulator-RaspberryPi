@@ -3,7 +3,8 @@
 Welcome to the RaspberryPi-TrafficLightControls project! This project was developed as part of the Computer Science 311 Networking Module at the University of the Western Cape with my team consisting of 10 members.
 
 Overview: 
-The RaspberryPi-TrafficLightControls project aims to provide a practical implementation of traffic light control using a Raspberry Pi. This project explores networking concepts and their application in controlling traffic lights, simulating a real-world scenario.
+The RaspberryPi-TrafficLightControls project aims to provide a practical implementation of traffic light control using a Raspberry Pi. This project explores networking concepts and their application in controlling traffic lights, simulating a real-world scenario.  
+
 
 Features: 
 Traffic Light Control: Control the behavior of traffic lights using a Raspberry Pi.
